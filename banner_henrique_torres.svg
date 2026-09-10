@@ -1,1 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090d12"/>
+      <stop offset="1" stop-color="#101820"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1683ff"/>
+      <stop offset="1" stop-color="#36a3ff"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
+  <!-- Background -->
+  <rect width="1600" height="500" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1598" height="498" rx="13" fill="none" stroke="#26313d"/>
+
+  <!-- Minimal code texture -->
+  <g opacity=".16" fill="#3b5268">
+    <rect x="1235" y="88" width="150" height="7" rx="3"/>
+    <rect x="1235" y="108" width="235" height="7" rx="3"/>
+    <rect x="1260" y="128" width="105" height="7" rx="3"/>
+    <rect x="1235" y="148" width="185" height="7" rx="3"/>
+    <rect x="1280" y="168" width="245" height="7" rx="3"/>
+    <rect x="1235" y="188" width="125" height="7" rx="3"/>
+
+    <rect x="1330" y="350" width="180" height="7" rx="3"/>
+    <rect x="1330" y="370" width="240" height="7" rx="3"/>
+    <rect x="1360" y="390" width="130" height="7" rx="3"/>
+    <rect x="1330" y="410" width="200" height="7" rx="3"/>
+  </g>
+
+  <g fill="none" stroke="#203243" stroke-width="2" opacity=".65">
+    <path d="M1450 65h55l-25 25 25 25"/>
+    <path d="M1515 65l25 25-25 25"/>
+    <path d="M1180 300v105h70"/>
+  </g>
+
+  <!-- Left accent -->
+  <rect x="72" y="66" width="3" height="368" fill="url(#blue)" filter="url(#glow)"/>
+
+  <!-- Terminal mark -->
+  <text x="130" y="118" font-family="monospace" font-size="48" font-weight="700" fill="#168cff">&gt;_</text>
+
+  <!-- Name -->
+  <text x="130" y="205" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#f4f7fa">Henrique</text>
+  <text x="565" y="205" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="url(#blue)">Torres</text>
+
+  <!-- Role -->
+  <text x="132" y="258" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#d7e0e8">Backend Developer Júnior</text>
+  <text x="620" y="258" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#168cff">|</text>
+  <text x="655" y="258" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#d7e0e8">🇧🇷 Brasil</text>
+
+  <!-- Skills -->
+  <text x="132" y="322" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="1.4" fill="#d4dde5">PHP</text>
+  <text x="210" y="322" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#168cff">||</text>
+  <text x="252" y="322" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="1.4" fill="#d4dde5">JAVASCRIPT</text>
+  <text x="458" y="322" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#168cff">||</text>
+  <text x="500" y="322" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="1.4" fill="#d4dde5">MYSQL</text>
+  <text x="610" y="322" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#168cff">||</text>
+  <text x="652" y="322" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="1.4" fill="#d4dde5">SQL SERVER</text>
+
+  <text x="132" y="357" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="1.4" fill="#d4dde5">HTML5</text>
+  <text x="245" y="357" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#168cff">||</text>
+  <text x="287" y="357" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="1.4" fill="#d4dde5">CSS3</text>
+  <text x="390" y="357" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#168cff">||</text>
+  <text x="432" y="357" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="1.4" fill="#d4dde5">POO</text>
+  <text x="515" y="357" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#168cff">||</text>
+  <text x="557" y="357" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="1.4" fill="#d4dde5">GIT</text>
+
+  <!-- Divider -->
+  <rect x="132" y="387" width="850" height="2" fill="url(#blue)"/>
+
+  <!-- Focus -->
+  <text x="132" y="423" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1.2" fill="#c8d3dc">Web Development</text>
+  <text x="385" y="423" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#168cff">||</text>
+  <text x="430" y="423" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1.2" fill="#c8d3dc">Backend</text>
+  <text x="555" y="423" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#168cff">||</text>
+  <text x="600" y="423" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1.2" fill="#c8d3dc">Database</text>
+
+  <!-- Right detail -->
+  <rect x="1100" y="160" width="2" height="150" fill="#168cff" opacity=".85"/>
+  <text x="1130" y="196" font-family="monospace" font-size="18" fill="#168cff">developer.profile</text>
+  <text x="1130" y="229" font-family="monospace" font-size="17" fill="#63788c">backend = true;</text>
+  <text x="1130" y="258" font-family="monospace" font-size="17" fill="#63788c">database = true;</text>
+  <text x="1130" y="287" font-family="monospace" font-size="17" fill="#63788c">learning = "always";</text>
+</svg>
