@@ -1,255 +1,128 @@
-<div align="center">
+# 👨‍💻 Henrique Torres
 
-<img src="./banner.svg" width="100%" alt="Henrique Torres - Backend Developer">
+### Backend Developer Júnior | 🇧🇷 Brasil
 
-<br>
+**PHP || JAVASCRIPT || MYSQL || SQL SERVER ||**  
+**HTML5 || CSS3 || POO || GIT**  
+**Web Development || Database**
 
-👨‍💻 Backend Developer | 🇧🇷 BR
+---
 
-PHP || JavaScript || SQL || MySQL || SQL Server || POO || Git
+## 👨‍💻 Sobre mim
 
-<br>
+Sou **Desenvolvedor Backend Júnior**, com foco no desenvolvimento de aplicações web e soluções que utilizam bancos de dados.
 
+Gosto de transformar necessidades reais em sistemas funcionais, trabalhando principalmente com **PHP, SQL e JavaScript**.
 
+Tenho interesse especial no desenvolvimento de:
 
+- 🌐 Sistemas Web
+- 📊 Dashboards e relatórios
+- 🗄️ Sistemas integrados a bancos de dados
+- ⚙️ Soluções para automatização de processos
+- 💻 Aplicações Backend
 
-</div>
+Atualmente estou focado em evoluir minhas habilidades como **Backend Developer** e ampliar meus conhecimentos em **JavaScript**, com o objetivo de futuramente atuar como **Full Stack Developer**.
 
-👨‍💻 Sobre mim
+---
 
-Olá! Eu sou Henrique Torres, desenvolvedor com foco em Backend e desenvolvimento de sistemas.
+## 🛠️ Tecnologias
 
-Gosto de transformar problemas do dia a dia em soluções através da programação, buscando criar aplicações organizadas, funcionais e fáceis de manter.
+### Backend
 
-Tenho interesse principalmente em:
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-💻 Desenvolvimento Backend
+### Frontend
 
-🐘 PHP
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-🟨 JavaScript
+### Banco de Dados
 
-🗄️ SQL e bancos de dados
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
-🧱 Programação Orientada a Objetos
+### Ferramentas e conceitos
 
-🌐 Desenvolvimento Web
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POO-333333?style=for-the-badge"/>
+</p>
 
-📊 Dashboards e relatórios
+---
 
-🔧 Git e GitHub
+## 🚀 O que eu desenvolvo
 
-Atualmente estou aprofundando meus conhecimentos em JavaScript, buscando ampliar minha capacidade de desenvolver aplicações cada vez mais completas.
+### 🌐 Sistemas Web
 
-💡 Acredito que a melhor forma de aprender programação é estudando, praticando, errando, entendendo o problema e melhorando a solução.
+Desenvolvimento de aplicações web com foco em organização, funcionalidade e integração com banco de dados.
 
-🛠️ Tecnologias
+### 📊 Dashboards e Relatórios
 
-<div align="center">
+Criação de dashboards e relatórios para apresentação e análise de informações.
+
+### 🗄️ Sistemas com Banco de Dados
+
+Desenvolvimento de aplicações que trabalham com armazenamento, consulta, atualização e organização de dados.
+
+### ⚙️ Soluções para problemas reais
+
+Busco desenvolver projetos que não sejam apenas exercícios, mas que simulem situações e necessidades encontradas em aplicações reais.
+
+---
+
+## 📂 Projetos em destaque
+
+### 🚚 Fleet Management System
+
+Sistema voltado para gerenciamento de informações relacionadas a uma frota.
+
+**Tecnologias:** PHP • SQL • HTML • CSS • JavaScript
+
+---
+
+### 🏦 Sistema Bancário
+
+Projeto desenvolvido para praticar conceitos de programação, regras de negócio e manipulação de dados.
+
+**Tecnologias:** PHP • POO • SQL
+
+---
+
+### 🛒 Catálogo de Produtos
+
+Sistema para gerenciamento e apresentação de produtos, trabalhando com operações e persistência de dados.
+
+**Tecnologias:** PHP • MySQL • HTML • CSS • JavaScript
+
+---
+
+## 📚 Atualmente estudando
+
+Estou constantemente buscando melhorar minha base de programação.
+
+```text
+JavaScript
+   │
+   ├── Fundamentos
+   ├── Lógica de programação
+   ├── Manipulação do DOM
+   └── Desenvolvimento Web
 
 Backend
-
-
-
-Frontend
-
-
-
-
-
-Banco de Dados
-
-
-
-
-Ferramentas
-
-
-
-
-</div>
-
-🚀 O que eu desenvolvo
-
-<table>
-<tr>
-<td width="50%">
-
-💻 Sistemas Web
-
-Desenvolvimento de sistemas utilizando PHP, banco de dados e conceitos de Programação Orientada a Objetos.
-
-</td>
-<td width="50%">
-
-📊 Dashboards
-
-Construção de dashboards para transformar dados em informações mais simples de visualizar e analisar.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-📑 Relatórios
-
-Desenvolvimento de consultas e relatórios para facilitar a análise de informações e reduzir processos manuais.
-
-</td>
-<td width="50%">
-
-⚙️ Soluções
-
-Criação de funcionalidades e automações para resolver problemas reais do dia a dia.
-
-</td>
-</tr>
-</table>
-
-📂 Projetos em destaque
-
-🚚 Sistema de Gerenciamento de Frota
-
-Sistema desenvolvido em PHP para gerenciamento de veículos e motoristas.
-
-Tecnologias: PHP POO PDO MySQL
-
-🔗 Ver projeto
-
-🏦 Sistema Bancário
-
-Projeto desenvolvido em PHP com foco em Programação Orientada a Objetos e fundamentos de desenvolvimento.
-
-Tecnologias: PHP POO
-
-🔗 Ver projeto
-
-🛒 Catálogo de Produtos
-
-Projeto desenvolvido para praticar desenvolvimento web, organização de código e manipulação de dados.
-
-Tecnologias: PHP HTML5 CSS3 MySQL
-
-🔗 Ver projeto
-
-📚 Atualmente estudando
-
-Meu foco atual de estudos está em JavaScript.
-
-JavaScript
-│
-├── Fundamentos
-│   ├── Variáveis
-│   ├── Tipos de dados
-│   └── Operadores
-│
-├── Estruturas de controle
-│   ├── if / else
-│   ├── switch
-│   └── loops
-│
-├── Arrays
-│   ├── map()
-│   ├── filter()
-│   ├── reduce()
-│   └── forEach()
-│
-├── Objetos
-│
-├── Funções
-│
-└── DOM
-
-Também continuo evoluindo meus conhecimentos em:
-
-PHP SQL POO Git Desenvolvimento Web
-
-🧠 Minha forma de aprender
-
-        📚 ESTUDAR
-            │
-            ▼
-        💻 PRATICAR
-            │
-            ▼
-         ❌ ERRAR
-            │
-            ▼
-        🔎 ENTENDER
-            │
-            ▼
-         🔧 CORRIGIR
-            │
-            ▼
-         🚀 EVOLUIR
-
-Cada projeto é uma oportunidade de colocar conhecimento em prática, encontrar problemas e melhorar minha forma de desenvolver soluções.
-
-🎯 Objetivos
+   │
+   ├── PHP
+   ├── POO
+   ├── Banco de Dados
+   └── SQL
 
 Objetivo
-
-Foco
-
-💻 Backend
-
-Evoluir cada vez mais com PHP
-
-🟨 JavaScript
-
-Dominar os fundamentos e avançar para aplicações reais
-
-🗄️ SQL
-
-Melhorar consultas e manipulação de dados
-
-🧱 Arquitetura
-
-Aprender a estruturar sistemas melhores
-
-🚀 Projetos
-
-Construir aplicações cada vez mais completas
-
-📚 Aprendizado
-
-Transformar conhecimento em projetos práticos
-
-📊 GitHub
-
-<div align="center">
-
-<a href="https://github.com/RicardoHenriqueTorres">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RicardoHenriqueTorres&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-</a>
-
-<a href="https://github.com/RicardoHenriqueTorres">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHenriqueTorres&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Principais linguagens">
-</a>
-
-</div>
-
-🌱 Evolução contínua
-
-Este perfil é também um registro da minha evolução como desenvolvedor.
-
-Aqui você encontrará projetos feitos durante meus estudos, experimentos com novas tecnologias e aplicações desenvolvidas para colocar conhecimentos em prática.
-
-🚀 Aprender. Construir. Melhorar. Repetir.
-
-📫 Contato
-
-<div align="center">
-
-
-
-</div>
-
-<div align="center">
-
-💻 Code • Learn • Build • Repeat
-
-⭐ Obrigado por visitar meu perfil!
-
-</div>
+   │
+   └── Full Stack Developer
