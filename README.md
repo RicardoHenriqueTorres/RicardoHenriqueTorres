@@ -1,80 +1,110 @@
-# 👨‍💻 Henrique Torres
+<h1 align="center">
+  👨‍💻 Henrique Torres
+</h1>
 
-### Backend Developer Júnior | 🇧🇷 Brasil
+<p align="center">
+  <strong>Backend Developer Júnior | 🇧🇷 Brasil</strong>
+</p>
 
-**PHP || JAVASCRIPT || MYSQL || SQL SERVER ||**  
-**HTML5 || CSS3 || POO || GIT**  
-**Web Development || Database**
+<p align="center">
+  PHP • JavaScript • MySQL • SQL Server • HTML5 • CSS3 • POO • Git
+</p>
+
+<p align="center">
+  <strong>Web Development • Backend • Database</strong>
+</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Backend Júnior**, com foco no desenvolvimento de aplicações web e soluções que utilizam bancos de dados.
+Sou **Desenvolvedor Backend Júnior**, focado no desenvolvimento de aplicações web e sistemas que trabalham com bancos de dados.
 
-Gosto de transformar necessidades reais em sistemas funcionais, trabalhando principalmente com **PHP, SQL e JavaScript**.
+Gosto de transformar necessidades em soluções funcionais, buscando sempre melhorar minha lógica, organização de código e conhecimento em desenvolvimento.
 
-Tenho interesse especial no desenvolvimento de:
+Meu foco atual está em:
 
-- 🌐 Sistemas Web
-- 📊 Dashboards e relatórios
-- 🗄️ Sistemas integrados a bancos de dados
-- ⚙️ Soluções para automatização de processos
-- 💻 Aplicações Backend
+- 🌐 Desenvolvimento de Sistemas Web
+- 📊 Dashboards e Relatórios
+- 🗄️ Sistemas com Banco de Dados
+- ⚙️ Desenvolvimento Backend
+- 💻 Evolução contínua em programação
 
-Atualmente estou focado em evoluir minhas habilidades como **Backend Developer** e ampliar meus conhecimentos em **JavaScript**, com o objetivo de futuramente atuar como **Full Stack Developer**.
+Atualmente estou aprofundando meus conhecimentos em **JavaScript** e fortalecendo minha base como **Backend Developer**, com o objetivo de futuramente me tornar um **Full Stack Developer**.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Stack
 
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-### Banco de Dados
+### Database
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
 
-### Ferramentas e conceitos
+### Ferramentas & Conceitos
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POO-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/POO-333333?style=for-the-badge">
 </p>
 
 ---
 
 ## 🚀 O que eu desenvolvo
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🌐 Sistemas Web
 
-Desenvolvimento de aplicações web com foco em organização, funcionalidade e integração com banco de dados.
+Aplicações web com foco em organização, funcionalidade e experiência de uso.
 
-### 📊 Dashboards e Relatórios
+</td>
 
-Criação de dashboards e relatórios para apresentação e análise de informações.
+<td width="50%">
 
-### 🗄️ Sistemas com Banco de Dados
+### 📊 Dashboards
 
-Desenvolvimento de aplicações que trabalham com armazenamento, consulta, atualização e organização de dados.
+Dashboards e relatórios para visualização e análise de informações.
 
-### ⚙️ Soluções para problemas reais
+</td>
+</tr>
 
-Busco desenvolver projetos que não sejam apenas exercícios, mas que simulem situações e necessidades encontradas em aplicações reais.
+<tr>
+<td width="50%">
+
+### 🗄️ Banco de Dados
+
+Aplicações envolvendo consultas, armazenamento e manipulação de dados.
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Soluções
+
+Projetos voltados para resolver problemas e automatizar processos.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -82,47 +112,43 @@ Busco desenvolver projetos que não sejam apenas exercícios, mas que simulem si
 
 ### 🚚 Fleet Management System
 
-Sistema voltado para gerenciamento de informações relacionadas a uma frota.
+Sistema desenvolvido para gerenciamento de informações relacionadas a uma frota.
 
-**Tecnologias:** PHP • SQL • HTML • CSS • JavaScript
+**Tecnologias:**  
+`PHP` `SQL` `HTML` `CSS` `JavaScript`
 
 ---
 
 ### 🏦 Sistema Bancário
 
-Projeto desenvolvido para praticar conceitos de programação, regras de negócio e manipulação de dados.
+Projeto desenvolvido para praticar programação, lógica, regras de negócio e manipulação de dados.
 
-**Tecnologias:** PHP • POO • SQL
+**Tecnologias:**  
+`PHP` `POO` `SQL`
 
 ---
 
 ### 🛒 Catálogo de Produtos
 
-Sistema para gerenciamento e apresentação de produtos, trabalhando com operações e persistência de dados.
+Sistema para gerenciamento e apresentação de produtos utilizando banco de dados.
 
-**Tecnologias:** PHP • MySQL • HTML • CSS • JavaScript
+**Tecnologias:**  
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
 ## 📚 Atualmente estudando
 
-Estou constantemente buscando melhorar minha base de programação.
+### JavaScript ⚡
+
+Estou aprofundando meus conhecimentos em JavaScript, principalmente em:
 
 ```text
 JavaScript
-   │
-   ├── Fundamentos
-   ├── Lógica de programação
-   ├── Manipulação do DOM
-   └── Desenvolvimento Web
-
-Backend
-   │
-   ├── PHP
-   ├── POO
-   ├── Banco de Dados
-   └── SQL
-
-Objetivo
-   │
-   └── Full Stack Developer
+│
+├── Fundamentos
+├── Lógica de programação
+├── Funções
+├── Arrays e objetos
+├── Manipulação do DOM
+└── Desenvolvimento Web
