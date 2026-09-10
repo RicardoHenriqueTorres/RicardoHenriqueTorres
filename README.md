@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner_henrique_torres.svg" width="100%" alt="Henrique Torres - Backend Developer Júnior">
+</p>
+
 <h1 align="center">
   👨‍💻 Henrique Torres
 </h1>
